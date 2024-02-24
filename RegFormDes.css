@@ -15,7 +15,6 @@ body{
     background-position: center;
 }
 
-
 .wrapper{
     width: 420px;
     background: transparent;
@@ -24,7 +23,6 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     color: white;
     padding: 30px 40px;
-
 }
 
 .wrapper h1{
@@ -56,9 +54,9 @@ body{
 }
 
 .input-box i{
-    position: absolute;
-    right: 630px;
-    transform: translateY(80%);
+    position: relative;
+    right: -300px;
+    transform: translateY(-35px);
     font-size: 20px;
 }
 
